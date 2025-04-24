@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Daily Logs/TEMPLATE.md",
+                "file": "00-README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE"
+              "title": "00-README"
             }
           }
         ]
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f522b407a1d5af3",
+  "active": "67a8295d0c3fd593",
   "lastOpenFiles": [
-    "2025-04-24.md",
     "📆 Daily Logs/TEMPLATE.md",
+    "2025-04-24.md",
     "glitches-conceptuales.md",
     "errores-vram.md"
   ]
