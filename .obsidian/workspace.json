@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-README.md",
+                "file": "🧩 Vocabulario/Instrucciones/Loads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-README"
+              "title": "Loads"
             }
           }
         ]
@@ -167,9 +167,38 @@
   },
   "active": "67a8295d0c3fd593",
   "lastOpenFiles": [
-    "📆 Daily Logs/TEMPLATE.md",
-    "2025-04-24.md",
+    "🧩 Vocabulario/Instrucciones/Funciones.md",
+    "📆 Daily Logs/2025-04-25.md",
+    "Instrucciones.md",
+    "🧩 Vocabulario/Assembly.md",
+    "🧩 Vocabulario/Instrucciones/Más allá de las instrucciones.md",
+    "🧩 Vocabulario/Instrucciones/Misceláneos.md",
+    "🧩 Vocabulario/Instrucciones/Operaciones de stack.md",
+    "🧩 Vocabulario/Instrucciones/Shifts y rotaciones.md",
+    "🧩 Vocabulario/Instrucciones/Operaciones de bits.md",
+    "🧩 Vocabulario/Instrucciones/Operaciones lógicas.md",
+    "🧩 Vocabulario/Instrucciones/Operaciones ariméticas.md",
+    "🧩 Vocabulario/Instrucciones/Jumps.md",
+    "🧩 Vocabulario/Instrucciones/Loads.md",
+    "🧩 Vocabulario/Instrucciones",
+    "🧩 Vocabulario/Internals.md",
+    "🧩 Vocabulario/CPU.md",
+    "Pasted image 20250425193624.png",
+    "Pasted image 20250425192927.png",
+    "🧩 Vocabulario/Formatos numéricos.md",
+    "🧩 Vocabulario/Registros.md",
+    "📸 Capturas/Pasted image 20250425192730.png",
+    "🧩 Vocabulario/Mapa de memoria.md",
+    "📸 Capturas/Pasted image 20250425190319.png",
+    "📸 Capturas/Pasted image 20250425190807.png",
+    "Capturas",
+    "📸 Capturas/Pasted image 20250425190553.png",
+    "📸 Capturas/Pasted image 20250425190320.png",
+    "00-README.md",
     "glitches-conceptuales.md",
-    "errores-vram.md"
+    "errores-vram.md",
+    "🧩 Vocabulario",
+    "📆 Daily Logs/TEMPLATE.md",
+    "2025-04-24.md"
   ]
 }
